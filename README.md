@@ -13,7 +13,7 @@ The local-first flight recorder and control plane for AI agents. Your agent's ca
 [![PyPI](https://img.shields.io/pypi/v/agentic-ledger)](https://pypi.org/project/agentic-ledger/)
 [![CI](https://github.com/ShekharBhardwaj/AgenticLedger/actions/workflows/ci.yml/badge.svg)](https://github.com/ShekharBhardwaj/AgenticLedger/actions)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](https://github.com/ShekharBhardwaj/AgenticLedger/blob/main/LICENSE)
-[![BYOAIK](https://img.shields.io/badge/BYOAIK-bring%20your%20own%20AI%20keys-8a2be2)](https://agentic-ledger.dev)
+[![BYOAIK status](https://qhfc1deef2.execute-api.us-east-1.amazonaws.com/tools/agentic-ledger/badge.svg)](https://www.byoaik.com/tools/agentic-ledger/)
 
 ```bash
 uv tool install agentic-ledger && agenticledger start

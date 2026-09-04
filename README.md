@@ -1,4 +1,4 @@
-### Hey, I'm Shekhar 🦝
+### Hey, I'm Shekhar
 
 I build, write, and speak about agentic AI, product architecture, observability, and the future of human-AI workflows.
 
